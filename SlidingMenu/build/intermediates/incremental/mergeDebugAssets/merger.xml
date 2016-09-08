@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AsProject20160908\LolClient\SlidingMenu\assets"/><source path="E:\AsProject20160908\LolClient\SlidingMenu\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AsProject20160908\LolClient\SlidingMenu\src\debug\assets"/></dataSet></merger>
