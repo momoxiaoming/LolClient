@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">LolClient</string>
+    <string name="app_name">LoL</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Activity_main_title_left_text">首页</string>
+    <string name="main_week_man">周免英雄</string>
+    <string name="system_news">系统公告</string>
 </resources>

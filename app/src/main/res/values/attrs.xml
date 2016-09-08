@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PagerTab">
+        <attr name="textType" />
+        <attr name="textSize" />
+        <attr name="indicatorHeight" />
+    </declare-styleable>
+
+    <attr name="textSize" format="dimension" />
+    <attr name="indicatorHeight" format="dimension" />
+    <attr name="textType">
+        <enum name="normal" value="0" />
+        <enum name="bold" value="1" />
+    </attr>
+
+</resources>

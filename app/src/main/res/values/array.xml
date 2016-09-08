@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="home_tab_array">
+        <item>资讯</item>
+        <item>玩家</item>
+        <item>新闻</item>
+        <item>更新</item>
+    </string-array>
+
+</resources>
